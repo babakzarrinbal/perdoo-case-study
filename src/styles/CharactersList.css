@@ -1,0 +1,16 @@
+.charactersListContainer {
+  padding: 24px;
+  background-color: #f0f2f5; /* Light grey background */
+  border-radius: 8px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.charactersTable .ant-table-thead > tr > th {
+  background-color: #1890ff; /* Ant Design primary color */
+  color: white;
+}
+
+.characterLink {
+  color: #1890ff;
+  font-weight: 500;
+}
